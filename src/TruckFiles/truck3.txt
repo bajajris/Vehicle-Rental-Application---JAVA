@@ -1,0 +1,10 @@
+hello : 2017 : 176 : 10 ton
+wego : 2014 : 56 : 80 ton
+gone : 2000 : 49 : 20 ton
+kona : 2013 : 78 : 120 ton
+wego : 2014 : 56 : 80 ton
+wego : 2014 : 56 : 80 ton
+gone : 2000 : 49 : 20 ton
+kona : 2013 : 78 : 120 ton
+gogo : 2001 : 41 : 80 ton
+hey : 2013 : 98 : 40 ton
